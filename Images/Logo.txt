@@ -1,1 +1,1 @@
-
+This folder contains the logo that is being used in the Readme.md file of this repository.
